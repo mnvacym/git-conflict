@@ -1,1 +1,1 @@
-const pElements = document.querySelectorAll("p");
+const divElements = document.querySelectorAll("div");
